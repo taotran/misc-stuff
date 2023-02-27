@@ -1,0 +1,8 @@
+2023-02-27 16:04:31.334  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : Task testTask had id defcf0da-6215-4851-8724-b7059b905c7e
+2023-02-27 16:04:31.334  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : Task defcf0da-6215-4851-8724-b7059b905c7e
+2023-02-27 16:04:31.476  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : current status: PENDING, 1 tries
+2023-02-27 16:04:36.596  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : current status: PENDING, 2 tries
+2023-02-27 16:04:41.757  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : current status: RUNNING, 3 tries
+2023-02-27 16:04:46.876  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : current status: SUCCEEDED, 4 tries
+2023-02-27 16:04:46.876  INFO 11313 --- [nio-8081-exec-2] c.t.g.service.BaseSqlTranslationService  : SUCCESS, com.ttran.gcp.TaskWrapper@288781c2
+2023-02-27 16:04:46.879  INFO 11313 --- [nio-8081-exec-2] c.t.gcp.rest.SqlTranslationController    : Conversion finished, latency=17172
